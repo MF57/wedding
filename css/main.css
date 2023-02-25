@@ -65,6 +65,10 @@ body {
     }
 }
 
+.spotify-row {
+    margin-top: 40px;
+}
+
 .ww-home-page:before {
     content: "";
     width: 100%;
