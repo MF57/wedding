@@ -4,12 +4,18 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-    background: url("../images/cover.png") no-repeat center center;
+    background: url("../images/1.jpg") no-repeat center center;
     background-size: cover;
     background-position: 20%;
     height: 100vh;
     min-height: 480px;
     /*max-height: 1080px;*/
+}
+
+@media (max-width: 480px) {
+    .ww-home-page {
+        background-position: 50%;
+    }
 }
 
 .ww-home-page .ww-wedding-announcement {
