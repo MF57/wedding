@@ -127,6 +127,10 @@ body {
     background-color: #f58a77;
 }
 
+.row.transport-info {
+    margin-top: 30px;
+}
+
 /* Photo Gallery Style */
 .ww-photo-gallery .ww-category-filter a {
     display: inline-block;
