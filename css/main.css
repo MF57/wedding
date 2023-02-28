@@ -49,10 +49,16 @@ body {
     }
 }
 
+
 @media (min-width: 480px) {
     .couple-photo {
         height: 700px;
     }
+
+    .szymek-photo {
+        height: 631px;
+    }
+
 }
 
 .ww-home-page .ww-wedding-announcement .ww-couple-name {
